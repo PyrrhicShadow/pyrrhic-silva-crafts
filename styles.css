@@ -122,6 +122,6 @@ th, td {
 }
 
 #projects td img {
-    height: 80px; 
-    width: auto; 
+    width: 80px; 
+    float: left;
 }
