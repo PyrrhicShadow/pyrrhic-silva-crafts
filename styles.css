@@ -104,7 +104,7 @@ small {
 #projects, #aboutme {
     margin: 0 auto; 
     width: 90%; 
-    max-width: 800px;
+    max-width: 1000px;
     line-height: 1.5em; 
 }
 
@@ -116,12 +116,21 @@ ul, ol {
     margin-left: 25px; 
 }
 
+ul {
+    display: block;
+    list-style-type: disc;
+}
+
+table {
+    min-width: 100%; 
+}
 th, td {
     border: 1px dashed rgb(0, 174, 255);
-    padding: 10px 10px; 
+    padding: 10px 10px;
+    /* max-width: 200px;  */
 }
 
 #projects td img {
-    width: 80px; 
-    float: left;
+    width: 120px; 
+    float: left; 
 }
