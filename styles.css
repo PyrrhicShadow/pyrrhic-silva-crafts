@@ -128,11 +128,11 @@ table {
 th, td {
     border: 1px dashed rgb(0, 174, 255);
     padding: 10px 10px;
-    /* max-width: 200px;  */
+    /* max-width: 300px;  */
 }
 
 #projects td img {
-    width: 120px; 
+    width: 250px; 
     float: left; 
 }
 
