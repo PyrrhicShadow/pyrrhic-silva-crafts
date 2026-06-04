@@ -123,7 +123,7 @@ ul {
 }
 
 table {
-    min-width: 100%; 
+    min-width: 95%; 
 }
 th, td {
     border: 1px dashed rgb(0, 174, 255);
